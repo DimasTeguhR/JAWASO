@@ -5394,6 +5394,11 @@ mark {
   color: #E72463;
 }
 
+.team-center {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 767px) {
   .about-area .collection-content {
     margin-bottom: 30px;
