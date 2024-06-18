@@ -83,15 +83,15 @@ Our website is designed to be fully responsive, providing an optimal viewing exp
 - Bootstrap for responsive design
 - jQuery for enhanced interactivity
 - Font Awesome for icons
-- Backend technology (e.g., Node.js, PHP)
-- Database (e.g., MySQL, MongoDB)
+- Backend technology (e.g., Node.js, PHP) (COMING SOON!!!)
+- Database (e.g., MySQL, MongoDB) (COMING SOON!!!)
 
 ## Installation
 To run this project locally, follow these steps:
 1. Clone the repository: `git clone https://github.com/DimasTeguhR/JAWASO.git`
 2. Navigate to the project directory: `cd jawaso`
-3. Install dependencies: `npm install` (for Node.js) or follow backend-specific instructions
-4. Start the development server: `npm start` or backend-specific command
+3. Install dependencies: `npm install` (for Node.js) or follow backend-specific instructions (COMING SOON!!!)
+4. Start the development server: `npm start` or backend-specific command (COMING SOON!!!)
 
 ## Contributing
 We welcome contributions to improve JAWASO. Please fork the repository and submit a pull request with your changes.
