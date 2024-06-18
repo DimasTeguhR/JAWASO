@@ -3,8 +3,8 @@
 Welcome to JAWASO, your one-stop destination for exquisite wedding and birthday decorations. Our website offers a seamless shopping experience with responsive design to ensure compatibility across all devices, including mobile. Dive into the details of each page and discover what JAWASO has to offer!
 
 ## Table of Contents
-- [Home](#index.html)
-- [Shop](#shop.html)
+- [Home](index.html)
+- [Shop](shop.html)
 - [Keranjang (Cart)](#cart.html)
 - [Checkout](#checkout.html)
 - [WishList](#wishlist.html)
